@@ -1,0 +1,6 @@
+[submodule "cheezewizards"]
+	path = cheezewizards
+	url = https://github.com/zero1ne/cheezewizards
+[submodule "cryptokitties"]
+	path = cryptokitties
+	url = https://github.com/zero1ne/cryptokitties
